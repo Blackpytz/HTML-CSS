@@ -1,0 +1,31 @@
+.cute_cat {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 25px;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+
+.text-box {
+  border: none;
+  width: 300px;
+  font-size: 18px;
+  font-family: Arial;
+  vertical-align: middle;
+}
+
+.tweet-button {
+  background-color: rgb(29, 155, 240);
+  color: white;
+  border: none;
+  border-radius: 30px;
+  font-weight: bold;
+  font-size: 16px;
+  cursor: pointer;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 16px;
+  padding-left: 16px;
+  vertical-align: middle;
+}
